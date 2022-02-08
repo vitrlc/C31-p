@@ -43,9 +43,7 @@ class PlayerArrow {
           
           
         }
-      /****escreva um código correto para adicionar o loop for e exibir pequenos pontos
-           em todas as posições armazenadas na matriz trajectory (trajetória)
-           *******/
+      
      
   
   }
